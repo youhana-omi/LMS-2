@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    /* display: flex;
+    flex-direction: row;
+    float: left; */
+    background-image: linear-gradient(to right, #6b1414, #cb692d);
+}
+.navbar-brand {
+    margin-left: 0px;
+    color: white !important;
+}
+.nav-link {
+    color: rgb(13, 34, 13) !important;
+
+}
